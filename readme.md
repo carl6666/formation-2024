@@ -11,12 +11,12 @@
 
 Formation **GIT**
 
-Formation  **GIT**
+Formation  *GIT*
 
 ---
 
-'''html
+```html
 <html></html>
-'''
+```
 
 [Lien](http://google.fr)
